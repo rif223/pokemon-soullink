@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/soullinkui.tsx","./src/firebaseruntime.ts","./src/main.tsx","./src/storage.ts","./src/types.ts","./src/utils.ts","./src/components/badge.tsx","./src/components/firebasesetup.tsx","./src/components/paircard.tsx","./src/components/pokemonautocompleteinput.tsx","./src/components/pokemonbox.tsx"],"version":"5.9.3"}
