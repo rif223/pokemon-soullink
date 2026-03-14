@@ -979,7 +979,7 @@ export default function SoulLinkUI() {
         </div>
 
         <div className="footer">
-          Auto-saves in localStorage • Realtime sync uses runtime Firebase config from the user
+          Auto-saves in localStorage. Realtime sync uses runtime Firebase config from the user.
         </div>
       </div>
 
