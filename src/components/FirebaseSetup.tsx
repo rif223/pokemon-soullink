@@ -47,7 +47,7 @@ export default function FirebaseSetup(props: {
         <div className="card setup-card">
           <h1 style={{ marginTop: 0 }}>Pokemon SoulLink Tracker Setup</h1>
           <p className="muted">
-            Paste your own Firebase Web App config JSON here. Nothing is hardcoded.
+            Paste your own Firebase Web App config JSON here.
             The config is stored only in this browser via localStorage.
           </p>
 
